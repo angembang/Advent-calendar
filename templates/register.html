@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mbang Advent calendar</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Inscription</a></li>
+          <li><a href="login.html">Connexion</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <form
+        action="../JS/main.js"
+        method="POST"
+        id="registerForm"
+        enctype="multipart/form-data"
+      >
+        <fieldset>
+          <fieldset>
+            <label for="first_name">Prénom</label>
+            <input
+              type="text"
+              id="first_name"
+              name="first_name"
+              placeholder="Ange"
+            />
+          </fieldset>
+          <fieldset>
+            <label for="last_name">Nom</label>
+            <input
+              type="text"
+              id="last_name"
+              name="last_name"
+              placeholder="Mbang"
+            />
+          </fieldset>
+          <fieldset>
+            <label for="email">Email</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="exemple@gmail.com"
+            />
+          </fieldset>
+          <fieldset>
+            <label for="password">Mot de passe</label>
+            <input
+              type="password"
+              id="password"
+              class="pass"
+              name="password"
+              placeholder="min 8 caractères (1maj, 1 symb)"
+              required
+            />
+          </fieldset>
+          <fieldset>
+            <label for="confirm_password">Confirmer Mot de passe</label>
+            <input
+              type="password"
+              id="confirm_password"
+              class="pass"
+              name="confirm_password"
+            />
+          </fieldset>
+          <input type="submit" value="S'inscrire" id="btn_submit" />
+        </fieldset>
+      </form>
+    </main>
+
+    <script src="../js/main.js" type="module"></script>
+  </body>
+</html>
