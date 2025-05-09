@@ -4,22 +4,6 @@ body {
 }
 
 /**************************** Header style **********************/
-h1 {
-  font-family: 'Hammersmith One', sans-serif; 
-  font-size: 3rem; 
-  color: #97bee6; 
-  text-align: center; 
-  margin: 20px 0; 
-  text-transform: uppercase; 
-  letter-spacing: 2px; 
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-}
-
-h1:focus {
-  outline: 3px solid #ff6f61; 
-  outline-offset: 4px;
-}
-
 header {
   background-color: #34495E; 
   color: white; 
@@ -31,9 +15,20 @@ header {
   padding: 1rem;
 }
 
-header h1 {
-  font-size: 2rem;
-  margin-left: 20px; 
+h2 {
+  font-family: 'Hammersmith One', sans-serif; 
+  font-size: 2rem; 
+  color: #97bee6; 
+  text-align: center; 
+  margin: 20px 0; 
+  text-transform: uppercase; 
+  letter-spacing: 2px; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h2:focus {
+  outline: 3px solid #ff6f61; 
+  outline-offset: 4px;
 }
 
 nav {
@@ -56,6 +51,10 @@ nav a:hover {
 nav a:focus {
   outline: 3px solid #ff6f61; 
   outline-offset: 4px;
+}
+
+.welcomeMessage {
+  font-size: 1.5em;
 }
 
 
@@ -160,12 +159,12 @@ footer p {
     flex-direction: column; 
   }
 
-  h1 {
+  h2 {
     font-size: 1.8rem; 
   }
 
   .welcomeMessage {
-    font-size: 1rem; 
+    font-size: 1.5rem; 
     margin-top: 10px; 
   }
   #calendar {
@@ -201,5 +200,8 @@ footer p {
 @media screen and (min-width: 1025px) {
   #calendar {
     width: 60%; 
+  }
+  .welcomeMessage {
+    margin-right: 5rem;
   }
 }
