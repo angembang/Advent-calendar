@@ -1,11 +1,31 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mbang Advent calendar</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mbang Advent Calendar</title>
+    <link rel="stylesheet" href="../styles/calendar.css">
+  </head>
+  <body>
+    <header>
+      <section>
+        <h2>Mbang Advent Calendar</h2>
+        <p class="slogan"></p>
+      </section>
+      <p class="welcomeMessage"></p>
+    </header>
+
+    <main>
+      <div id="calendar"></div>
+    </main>
+
+    <footer>
+      <p>
+        &copy; <span id="currentYear"></span> Mbang Advent Calendar. Tous droits
+        réservés.
+      </p>
+    </footer>
+
+    <script src="../js/main.js" type="module"></script>
+  </body>
 </html>
