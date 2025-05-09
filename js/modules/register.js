@@ -70,6 +70,8 @@ function register() {
 
       // Reset the form
       registerForm.reset();
+      // Redirect to the login page
+      window.location.href = "../templates/login.html";
     }
   });
 }
