@@ -1,0 +1,178 @@
+{
+    "surprises": [
+        {
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2023/12/01/191604-890522364_large.mp4",
+            "name": "Ice snow winter",
+            "message": "C'est bientôt Noël. Souriez, rêvez, partagez. Le temps est venu de croire en la magie des fêtes. Nous vous souhaitons un Avent magique à vous et à vos proches et nous réjouissons de vous revoir très prochainement."
+        },
+
+        {
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2023/10/04/183520-871250791_large.mp4",
+            "name": "House under the moon",
+            "message": "Joyeux Avent! Tel est notre souhait et nous espérons partager avec vous chaque jour de cette belle période de préparation à Noël."
+
+        },
+
+        {
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2021/12/18/101927-659549533_large.mp4",
+            "name": "The snow",
+            "message": "Il faut profiter de cette belle occasion pour faire de cette célébration un temps rempli de joie et d'amitié. Joyeux Avent!."
+        },
+
+        {
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2021/07/02/79935-570698398_large.mp4",
+            "name": "Train Santa Deer",
+            "message": "Chaque moment passé avec les êtres chers est indispensable à notre épanouissement et à notre bonheur. Le temps de l’Avent est une belle occasion pour vous manifester tout notre attachement et souhaiter que se réalisent tous vos désirs."    
+        },
+
+        {
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2021/05/21/74720-553617849_tiny.mp4",
+            "name": "Christmas santa Claus",
+            "message": "Pensez à une tradition de Noël que vous adorez. Partagez-la avec quelqu'un !"    
+        },
+
+        {
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2019/01/30/21061-315136939_large.mp4",
+            "name": "Christmas Candles Mood",
+            "message": "Rappelez-vous : le plus beau des cadeaux, c’est l’amour que l’on partage."
+        },
+
+        {
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2022/11/03/137615-767056235_tiny.mp4",
+            "name": "Advent Pet",
+            "message": "Meilleurs vœux pour un Avent plein de joie et de bonheur."
+        }, 
+
+        {
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2022/11/03/137579-766938298_large.mp4",
+            "name": "Woman Heros Cartoon",
+            "message": "Faites une bonne action sans rien attendre en retour."
+        }, 
+
+        {  
+            "type": "image",
+            "src": "https://cdn.pixabay.com/photo/2016/12/15/14/48/new-years-eve-1909061_1280.jpg",
+            "name": "New Year Winter",
+            "message": "Nous vous souhaitons un agréable temps de l’Avent. Qu'il vous apporte joie, sérénité et bonheur."   
+        },
+
+        {   
+            "type": "image",
+            "src": "https://cdn.pixabay.com/photo/2020/11/18/14/32/sunset-5755432_640.jpg",
+            "name": "Sunset Silhouette",
+            "message": "Je vous souhaite un très beau mois de décembre, beaucoup de bonheur et de joie, de paix et de sérénité. Joyeux Avent!"   
+        }, 
+
+        {  
+            "type": "image",
+            "src": "https://cdn.pixabay.com/photo/2024/10/30/06/22/ai-generated-9160837_1280.jpg",
+            "name": "Santa Claus",
+            "message": "Écrivez une lettre au Père Noël et dites-lui ce qui vous rend heureux."   
+        }, 
+
+        {   
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2024/11/25/243214_tiny.mp4",
+            "name": "Christmas Santa Xmas",
+            "message": "Les rires sont le meilleur des remèdes. Racontez une blague !"   
+        }, 
+
+        {  
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2017/01/12/7267-199224756_tiny.mp4",
+            "name": "Toy Train",
+            "message": "Il est temps de faire un vœu ! Que souhaitez-vous pour cette saison ?"   
+        }, 
+
+        { 
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2023/11/22/190248-887495645_tiny.mp4",
+            "name": "Chrismas Xmas",
+            "message": "Rappelez-vous : Noël est un état d'esprit, pas seulement une date"   
+        }, 
+
+        { 
+            "type": "video",
+            "src": "https://videos.pexels.com/video-files/3197580/3197580-sd_640_360_25fps.mp4",
+            "name": "Cottombro Studio",
+            "message": "Tous nos vœux d’amour, paix, hospitalité et solidarité pour Noël."   
+        }, 
+
+        {
+            "type": "video",
+            "src": "https://videos.pexels.com/video-files/3214098/3214098-sd_640_360_25fps.mp4",
+            "name": "Pressmaster",
+            "message": "Que ce Noël vous apporte joie et prospérité. Que vos rêves se réalisent aussi incroyables soient-ils. Nos plus douces pensées pour les fêtes de fin d’année."   
+        }, 
+
+        {  
+            "type": "video",
+            "src": "https://videos.pexels.com/video-files/856068/856068-sd_640_360_30fps.mp4",
+            "name": "Pixabay",
+            "message": "Mettez-vous au défi d'apporter un peu de joie à votre journée."   
+        }, 
+
+        {  
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2020/07/01/43521-436237365_tiny.mp4",
+            "name": "GiftBox",
+            "message": "Pensez à une tradition de Noël que vous adorez. Partagez-la avec quelqu'un !"   
+        }, 
+
+        {  
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2024/02/20/201290-915375225_tiny.mp4",
+            "name": "Cottage",
+            "message": "Le temps de l’Avent est une belle occasion pour vous manifester tout notre attachement et souhaiter que se réalisent tous vos désirs."   
+        }, 
+
+        {  
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2023/12/03/191838-890894341_tiny.mp4",
+            "name": "Castle",
+            "message": "Cette période de réjouissances sera des plus agréables puisque vous serez à nos côtés et qu'ensemble nous profiterons de ces moments merveilleux de détente."   
+        }, 
+
+        {  
+            "type": "video",
+            "src": "https://cdn.pixabay.com/video/2019/12/04/29817-377520762_tiny.mp4",
+            "name": "Chrismas",
+            "message": "Que ce Noël vous apporte joie et prospérité. Que vos rêves se réalisent aussi incroyables soient-ils. Nos plus douces pensées pour les fêtes de fin d’année."   
+        }, 
+
+
+        {  "type": "quote",
+            "title": "Un Arbre de Noël",
+            "content": "Pour préparer un arbre de Noël, il faut trois choses, outre les ornements et l’arbre, la foi dans les beaux jours à venir.", 
+            "Author": "Zahrad"    
+        }, 
+
+        {  
+            "type": "quote",
+            "title": "Friends",
+            "content": "Ce qui compte à Noël, ce n’est pas de décorer le sapin, c’est d’être tous réunis.", 
+            "Author": "Kevin Bright" 
+        }, 
+        
+
+        {  
+            "type": "quote",
+            "title": "Noël",
+            "content": "Bientôt Noël... Cette jolie période de l'année où l'on songe plus au passé ni au futur mais rien qu'aux présents !", 
+            "Author": "Antoine Chuquet"   
+        }    
+
+    ]
+        
+       
+        
+    
+    }
