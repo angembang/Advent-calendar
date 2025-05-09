@@ -52,7 +52,7 @@ function home() {
     //return;
   }
   // fetch the surprises.json file to retrieve stored data
-  fetch("Adventcalendar/surprises.json")
+  fetch("Advent-calendar/surprises.json")
     .then((response) => response.json())
     .then((data) => {
       // Shuffle the retrieve data
