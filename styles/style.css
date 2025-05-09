@@ -1,0 +1,128 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/************************** Style for header**********************/
+
+header {
+  background-color: #34495e;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Hammersmith One", sans-serif;
+  font-size: 2rem;
+  color: #97bee6;
+  text-align: center;
+  margin: 20px 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h1:focus {
+  outline: 3px solid #ff6f61;
+  outline-offset: 4px;
+}
+
+/************************** Style for main ********************/
+
+main {
+  background-image: url("https://images.unsplash.com/photo-1734989080699-fe52ca8d2f85?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGFkdmVudCUyMGNhbGVuZGFyJTIwZGVjZW1iZXJ8ZW58MHx8MHx8fDA%3D");
+  background-size: cover;
+  background-position-y: center;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.index-main {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  justify-content: flex-start;
+
+  gap: 1rem;
+}
+
+.index-main a {
+  background-color: aliceblue;
+  padding: 0.5rem;
+  width: 130px;
+  border-radius: 7px;
+  text-align: center;
+  box-shadow: inset 0 0 1em rgb(102, 101, 96), 0 0 2em red;
+  font-size: 1.5em;
+}
+
+/************************** Style for footer ********************/
+
+footer {
+  background-color: #2c3e50;
+  color: white;
+
+  text-align: center;
+  font-size: 1rem;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+  text-align: center;
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/*********************** Media query *****************************/
+@media screen and (min-width: 569px) and (max-width: 768px) {
+  .index-main a {
+    padding: 0.7rem;
+    width: 150px;
+    font-size: 1.7em;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .index-main {
+    align-items: flex-end;
+    margin-right: 2.3rem;
+  }
+  .index-main a {
+    padding: 0.8rem;
+    width: 160px;
+    font-size: 1.8em;
+  }
+
+  @media (min-width: 1025px) and (max-width: 1400px) {
+    h1 {
+      font-size: 3rem;
+    }
+    .index-main {
+      margin-right: 10rem;
+    }
+    .index-main a {
+      padding: 1rem;
+      width: 220px;
+      font-size: 2.5em;
+    }
+  }
+
+  @media (min-width: 1401px) {
+    .index-main {
+      margin-right: 26rem;
+    }
+
+    .index-main a {
+      padding: 1rem;
+      width: 220px;
+      font-size: 2.5em;
+    }
+  }
+}
